@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Chenjl13
+# Hi there 👋 I'm JiaLe Chen
 
-<img align="right" alt="Robot Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Robot Coding" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 👨‍💻 About Me  
 
