@@ -45,7 +45,7 @@
   <a href="mailto:2960452187@qq.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/izoneforever4/">
+  <a href="https://www.instagram.com/chenjlll51/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@DesertIsland">
