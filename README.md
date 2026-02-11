@@ -30,7 +30,7 @@
 
 ## 🚀 Featured Projects  
 
-- [Wireless Data Transmission System](https://github.com/Chenjl51/你的仓库) – FPGA-based short-range communication  
+- [Wireless Data Transmission System](https://github.com/Chenjl13/Remote_FPGA_Lab) – FPGA-based short-range communication  
 - [Color Signpost Edition](https://github.com/Chenjl51/另一个仓库) – Arduino + Neurons integration  
 - [FPGA Oscilloscope](https://github.com/Chenjl51/xxx) – Real-time waveform visualization  
 
