@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me  
 
 🚀 A passionate developer who loves **coding, problem solving, and building cool stuff**.  
-💡 Currently exploring **Python**, **Verilog**, **Linux**, **FreeRTOS**.  
+💡 Currently exploring **AIDC**, **Federated Learning**, **Linux**, **FreeRTOS**, **Composite Structures**.  
 📚 Always learning and sharing.  
 🎸 Love playing the **Guitar**.  
 ⚽ Enjoy playing **Football**.  
