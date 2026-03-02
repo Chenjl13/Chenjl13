@@ -32,6 +32,7 @@
 
 - [Remote FPGA System](https://github.com/Chenjl13/Remote_FPGA_Lab) – FPGA-based lab center 
 - [A New Research on FedDyn](https://github.com/Chenjl13/PFLlib) – How to minimize the communication costs while keeping a high accuracy
+- [CUDA](https://github.com/Chenjl13/PFLlib) – Currently, I am studying cuda programming!
 
 
 ---
