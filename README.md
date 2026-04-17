@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me  
 
 🚀 A passionate developer who loves **coding, problem solving, and building cool stuff**.  
-💡 Currently exploring **AIDC**, **Federated Learning**, **Linux**, **FreeRTOS**, **Composite Structures**.  
+💡 Currently exploring **MedLLM**, **Federated Learning**, **Linux**, **FreeRTOS**, **Composite Structures**.  
 📚 Always learning and sharing.  
 🎸 Love playing the **Guitar**.  
 ⚽ Enjoy playing **Football**.  
@@ -32,7 +32,7 @@
 
 - [Remote FPGA System](https://github.com/Chenjl13/Remote_FPGA_Lab) – FPGA-based lab center 
 - [A New Research on FedDyn](https://github.com/Chenjl13/PFLlib) – How to minimize the communication costs while keeping a high accuracy
-- [MedLLM](https://github.com/Chenjl13/PFLlib) – Medical Large Language Model
+- [MedLLM](https://github.com/Chenjl13/MedLLM_Research) – Medical Large Language Model
 
 
 ---
