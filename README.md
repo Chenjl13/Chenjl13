@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me  
 
 🚀 Electronic Science and Technology undergraduate interested in AI systems and GPU computing.  
-💡 Currently exploring **AI Infra**, **CUDA**, **Medical LLM**, **Inference Acceleration**.  
+💡 Currently exploring **AI Infra**, **CUDA**, **Efficient Deep Learning**, **Inference Acceleration**.  
 📚 Always learning and sharing.  
 🎸 **Guitar** and **Football** enthusiast.
 
@@ -28,9 +28,8 @@
 ## 🚀 Featured Projects  
 
 - [Remote FPGA System](https://github.com/Chenjl13/Remote_FPGA_Lab) – FPGA-based lab center 
-- [A New Research on FedDyn](https://github.com/Chenjl13/FedDyn-FPI) – Communication-efficient federated learning under Non-IID data
-- [Folder Detector](https://github.com/Chenjl13/FolderSight) – Folder detection for Windows desktop
-
+- [FedDyn-FPI](https://github.com/Chenjl13/FedDyn-FPI) – Communication-efficient federated learning under Non-IID data
+- [Folder Detector](https://github.com/Chenjl13/FolderSight) – Vision-based folder detection for Windows desktop
 
 ---
 
