@@ -4,11 +4,10 @@
 
 ## 👨‍💻 About Me  
 
-🚀 A passionate developer who loves **coding, problem solving, and building cool stuff**.  
-💡 Currently exploring **AI Infra**, **CUDA**, **Medical LLM**, **Infrence Acceleration**.  
+🚀 Electronic Science and Technology undergraduate interested in AI systems and GPU computing.  
+💡 Currently exploring **AI Infra**, **CUDA**, **Medical LLM**, **Inference Acceleration**.  
 📚 Always learning and sharing.  
-🎸 Love playing the **Guitar**.  
-⚽ Enjoy playing **Football**.  
+🎸 **Guitar** and **Football** enthusiast.
 
 ---
 
@@ -20,10 +19,8 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,verilog,vhdl" />
 
   <!-- 工具 -->
-  <img src="https://skillicons.dev/icons?i=linux,vscode,git,docker,arduino" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,arduino" />
 
-  <!-- 社交 -->
-  <img src="https://skillicons.dev/icons?i=instagram,twitter,youtube,facebook" />
 </p>
 
 ---
@@ -31,7 +28,7 @@
 ## 🚀 Featured Projects  
 
 - [Remote FPGA System](https://github.com/Chenjl13/Remote_FPGA_Lab) – FPGA-based lab center 
-- [A New Research on FedDyn](https://github.com/Chenjl13/FedDyn-FPI) – How to minimize the communication costs while keeping a high accuracy
+- [A New Research on FedDyn](https://github.com/Chenjl13/FedDyn-FPI) – Communication-efficient federated learning under Non-IID data
 - [Folder Detector](https://github.com/Chenjl13/FolderSight) – Folder detection for Windows desktop
 
 
