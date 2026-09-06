@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me  
 
 🚀 A passionate developer who loves **coding, problem solving, and building cool stuff**.  
-💡 Currently exploring **MedLLM**, **Federated Learning**, **Linux**, **FreeRTOS**.  
+💡 Currently exploring **AI Infra**, **CUDA**, **Medical LLM**, **Infrence Acceleration**.  
 📚 Always learning and sharing.  
 🎸 Love playing the **Guitar**.  
 ⚽ Enjoy playing **Football**.  
