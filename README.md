@@ -53,14 +53,4 @@
   </a>
 </p>
 
----
 
-## 📈 Profile Views  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chenjl51&color=blue&style=for-the-badge" alt="Visitor Count" />
-</p>
-
----
-
-⭐️ From [Chenjl51](https://github.com/Chenjl13)
